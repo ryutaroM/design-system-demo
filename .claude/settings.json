@@ -7,7 +7,7 @@
   "spinnerTipsEnabled": false,
   "outputStyle": "Explanatory",
   "viewMode": "verbose",
-  "model": "default",
+  "model": "Default",
   "env": {
     "DISABLE_NON_ESSENTIAL_MODEL_CALLS": "1"
   }
