@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "autoUpdatesChannel": "stable",
+  "language": "japanese",
+  "cleanupPeriodDays": 14,
+  "showTurnDuration": true,
+  "spinnerTipsEnabled": false,
+  "outputStyle": "Explanatory",
+  "viewMode": "verbose",
+  "model": "default",
+  "env": {
+    "DISABLE_NON_ESSENTIAL_MODEL_CALLS": "1"
+  }
+}
