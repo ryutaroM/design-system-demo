@@ -12,7 +12,7 @@ const config: StorybookConfig = {
     options: {},
   },
   core: {
-    allowedHosts: 'all',
+    allowedHosts: ['localhost'],
   },
 }
 
