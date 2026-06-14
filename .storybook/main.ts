@@ -11,6 +11,9 @@ const config: StorybookConfig = {
     name: '@storybook/react-vite',
     options: {},
   },
+  core: {
+    allowedHosts: 'all',
+  },
 }
 
 export default config
